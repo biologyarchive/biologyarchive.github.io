@@ -102,6 +102,7 @@ h1, h2, h3{
     color: rgb(70, 70, 70);
     font-size: 16px;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 .image_scheme{
     max-height: 500px;
