@@ -146,13 +146,13 @@ h1, h2, h3{
 @media (max-width: 415px){
     .modelview{
         width: 350px;
-        height: 210px;
+        height: 220px;
     }
 }
 @media (max-width: 365px){
     .modelview{
         width: 300px;
-        height: 180px;
+        height: 190px;
     }
 }
 @media (max-width:440px){
